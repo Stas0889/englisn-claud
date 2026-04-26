@@ -1,0 +1,24 @@
+{
+  "name": "english-flow",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "homepage": "https://USERNAME.github.io/english-flow/",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5",
+    "react-router-dom": "^6.28.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.1",
+    "gh-pages": "^6.1.1",
+    "vite": "^8.0.10"
+  }
+}
