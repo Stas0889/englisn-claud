@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "homepage": "https://stas0889.github.io/english-claud/",
+  "homepage": "https://stas0889.github.io/englisn-claud/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
